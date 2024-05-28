@@ -1,0 +1,14 @@
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net8.0/ConsoleUI
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net8.0/ConsoleUI.deps.json
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net8.0/ConsoleUI.runtimeconfig.json
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net8.0/ConsoleUI.dll
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net8.0/ConsoleUI.pdb
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.AssemblyInfo.cs
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.dll
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/obj/Debug/net8.0/refint/ConsoleUI.dll
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.pdb
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.genruntimeconfig.cache
+/Users/alihan/RiderProjects/FinalProject/ConsoleUI/obj/Debug/net8.0/ref/ConsoleUI.dll
