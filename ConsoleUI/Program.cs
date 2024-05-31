@@ -12,11 +12,11 @@ class Program
 
         // Console.WriteLine("---------------");
 
-       // OrderTest();
+        // OrderTest();
 
         //Console.WriteLine("---------------");
 
-        CategoryTest();
+       // CategoryTest();
     }
 
     private static void CategoryTest()
@@ -43,9 +43,9 @@ class Program
     {
         ProductManager productManager = new ProductManager(new EfProducDal());
         var temp = productManager.GetProductDetails();
-        foreach (var VARIABLE in temp)
+        foreach (var VARIABLE in temp.Data)
         {
-            Console.WriteLine(VARIABLE.ProductName + " " + VARIABLE.CategoryName );
+            Console.WriteLine(VARIABLE.ProductName + " " + VARIABLE.CategoryName);
         }
     }
 }
