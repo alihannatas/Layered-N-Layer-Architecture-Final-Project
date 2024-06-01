@@ -21,6 +21,11 @@ public class ProductManager : IProductService
         return new SuccessDataResult<List<Product>>(_productDal.GetAll());
     }
 
+    public IDataResult<Product> Get(int id)
+    {
+        return new SuccessDataResult<Product>(_productDal.Get(p=> p.ProductId == id));
+    }
+
     public IDataResult<List<Product>> GetAllByCategory(int id)
     {
         return new SuccessDataResult<List<Product>>(_productDal.GetAll(p => p.CategoryId == id));
